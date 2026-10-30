@@ -36,9 +36,9 @@ The tests can be rerun with: node --test tests/timer.test.cjs. For a quick manua
 
 Output screenshots
 The screenshots below are actual browser captures of the implementation. They show local QA tasks and a completed one-minute test; those values are not preloaded into a new visitor’s app.
-![Light theme](screenshots/focusroom-light.jpg)
+Light theme screenshot: included in the downloadable project ZIP.
 Figure 1. Light theme: large focus timer, selected task and completed task.
-![Dark theme](screenshots/focusroom-dark.jpg)
+Dark theme screenshot: included in the downloadable project ZIP.
 Figure 2. Dark theme: the short-break mode reached after a real test session.
 
 Limitations and next steps
